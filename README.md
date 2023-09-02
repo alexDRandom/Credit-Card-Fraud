@@ -1,10 +1,11 @@
 # Credit Card Fraud
- Proyecto de practica
 
-
-Testing differents ML model's for imbalaced data
+Some random testing with different ML model's with imbalaced data
 
 **DATASET FROM KAGGLE** 
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 
 About Dataset
 Context
