@@ -6,7 +6,6 @@ Some random testing with different ML model's with imbalaced data
 
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-
 About Dataset
 Context
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
